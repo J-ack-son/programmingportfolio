@@ -21,8 +21,8 @@ App that functions as a calculator with interactions on screen
 
 [SourceCode_for_SpaceGame](https://github.com/J-ack-son/programmingportfolio/blob/main/src/calculatorKeyboard.zip)
 
-### SpaceGame
-OOP graphical game with sound and keyboard/mouse interactions
+### ScreenSaver
+Random color, thickness, and direction of lines across a random background: never ending loop for a screensaver
 ![SpaceGame_gameplay_image]()
 
 [SourceCode_for_SpaceGame]()
