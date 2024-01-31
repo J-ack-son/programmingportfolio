@@ -23,7 +23,7 @@ App that functions as a calculator with interactions on screen
 
 ### ScreenSaver
 Random color, thickness, and direction of lines across a random background: never ending loop for a screensaver
-![SpaceGame_gameplay_image]()
+![SpaceGame_gameplay_image](https://github.com/J-ack-son/programmingportfolio/blob/main/images/ss1.png?raw=true)
 
 [SourceCode_for_SpaceGame]()
 
