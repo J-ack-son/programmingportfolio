@@ -10,7 +10,7 @@ Skyline High School Computer Programming 1-2
 ## Individual Projects (2023-2024)
 
 ### SpaceGame
-OOP graphical game with keyboard/mouse interactions
+OOP graphical game with sound and keyboard/mouse interactions
 ![SpaceGame_gameplay_image]()
 
 [SourceCode_for_SpaceGame]()
