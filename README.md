@@ -27,9 +27,9 @@ Random color, thickness, and direction of lines across a random background: neve
 
 [SourceCode_for_SpaceGame](https://github.com/J-ack-son/programmingportfolio/blob/main/src/ScreenSaverApp.pde)
 
-### SpaceGame
-OOP graphical game with sound and keyboard/mouse interactions
-![SpaceGame_gameplay_image]()
+### DiveCars
+Moving graphical scene with random colored cars driving
+![SpaceGame_gameplay_image](https://github.com/J-ack-son/programmingportfolio/blob/main/images/cars1.png?raw=true)
 
 [SourceCode_for_SpaceGame]()
 
