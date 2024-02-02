@@ -36,6 +36,6 @@ Moving graphical scene with random colored cars driving
 
 ### Conversion App
 Converts USD to Euro using a moving graph with easy identification
-![Conversion App_gameplay_image](https://github.com/J-ack-son/programmingportfolio/blob/main/images/con1.png)
+![Conversion App_gameplay_image]()
 
 [SourceCode_for_ConversionApp](https://github.com/J-ack-son/programmingportfolio/blob/main/src/Conversion_App.pde)
