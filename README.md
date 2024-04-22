@@ -2,8 +2,8 @@
 Skyline High School Computer Programming 1-2
 
 ## USOE Tech Certifications
+![Certification](https://github.com/J-ack-son/programmingportfolio/blob/main/images/certification.png?raw=true)
 * Computer Programming 1
-  ![Certification]()
 * ECS 1
 
 ## Group Project (2023-24)
