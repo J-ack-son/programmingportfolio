@@ -8,6 +8,12 @@ Skyline High School Computer Programming 1-2
 
 ## Group Project (2023-24)
 
+### UnusGame
+Uno-like card game: player vs. AI
+![Uno_image]()
+* Repository for UnusGame
+* [repo_for_UnusGame]()
+
 ## Individual Projects (2023-2024)
 
 ### SpaceGame
