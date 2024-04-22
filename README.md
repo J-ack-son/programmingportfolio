@@ -16,6 +16,12 @@ OOP graphical game with sound and keyboard/mouse interactions
 
 [SourceCode_for_SpaceGame](https://github.com/J-ack-son/programmingportfolio/blob/main/src/SpaceGame%202.zip)
 
+### StarWars Game
+Quiz on the Starwars universe
+![Starwars_image]()
+
+[SourceCode_for_StarWars Quiz]()
+
 ### Calculator
 App that functions as a calculator with interactions on screen
 
@@ -40,9 +46,3 @@ Converts USD to Euro using a moving graph with easy identification
 ![Conversion App_image](https://github.com/J-ack-son/programmingportfolio/blob/main/images/con1.png?raw=true)
 
 [SourceCode_for_ConversionApp](https://github.com/J-ack-son/programmingportfolio/blob/main/src/Conversion_App.pde)
-
-### StarWars Game
-Quiz on the Starwars universe
-![Starwars_image]()
-
-[SourceCode_for_StarWars Quiz]()
