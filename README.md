@@ -3,6 +3,7 @@ Skyline High School Computer Programming 1-2
 
 ## USOE Tech Certifications
 * Computer Programming 1
+  ![Certification]()
 * ECS 1
 
 ## Group Project (2023-24)
