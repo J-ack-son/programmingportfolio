@@ -9,7 +9,7 @@ Skyline High School Computer Programming 1-2
 ## Group Project (2023-24)
 
 ### UnusGame
-Uno-like card game: player vs. AI
+* Uno-like card game: player vs. AI
 ![Uno_image](https://github.com/LilianDm/UnusGame/raw/main/images/newstartscreenAH.png?raw=true)
 * Repository for UnusGame
 * [repo_for_UnusGame]()
