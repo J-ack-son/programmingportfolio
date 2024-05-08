@@ -5,6 +5,8 @@ Skyline High School Computer Programming 1-2
 ![Certification](https://github.com/J-ack-son/programmingportfolio/blob/main/images/certification.png?raw=true)
 * Computer Programming 1
 * ECS 1
+![Certification](https://github.com/J-ack-son/programmingportfolio/blob/main/images/certification.png?raw=true)
+* Computer Programming 2 Java
 
 ## Group Project (2023-24)
 
