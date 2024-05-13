@@ -28,7 +28,7 @@ OOP graphical game with sound and keyboard/mouse interactions
 Quiz on the Starwars universe
 ![Starwars_image](https://github.com/J-ack-son/programmingportfolio/blob/main/images/starwars%20game.png?raw=true)
 
-[Repository_for_StarWars Quiz](https://github.com/J-ack-son/StarWarsGame)
+[Repository_for_StarWars Quiz Game](https://github.com/J-ack-son/StarWarsGame)
 
 ### Calculator
 App that functions as a calculator with interactions on screen
